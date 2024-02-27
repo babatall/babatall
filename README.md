@@ -5,6 +5,22 @@ I am also physics enthousiast
 
 # Technologies et Outils
 
-![Technologies et Outils]<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Voici une liste des technologies et des outils que j'utilise souvent dans mes projets :
+
+- Langages de programmation :
+  - JavaScript
+  - Python
+  - HTML/CSS
+
+- Frameworks et bibliothèques :
+  - React.js
+  - Node.js
+  - Flask
+
+- Outils de développement :
+  - Git
+  - Visual Studio Code
+  - Docker
+
 
   
