@@ -1,3 +1,4 @@
+![logo](https://github.com/babatall/babatall/blob/main/Github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Mor Tall</h1>
 <h3 align="center">A passionate fullstack developer from Senegal</h3>
 <img align="right" alt='coding' width='400' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wyaWJ0cDFobzIwcG5wazdnYzc4cTQwem1maTgyaDVvbTdod3Y2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif'/>
